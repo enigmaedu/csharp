@@ -15,6 +15,7 @@ namespace BasicConcepts
             MyMethod("Kevin");
             MyMethod("Pam");
             MyMethod("Anja");
+            MyMethod("Anja again");
         }
     }
 }
