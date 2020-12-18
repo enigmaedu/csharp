@@ -1,0 +1,13 @@
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\bin\Debug\netcoreapp3.1\BasicConcepts.exe
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\bin\Debug\netcoreapp3.1\BasicConcepts.deps.json
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\bin\Debug\netcoreapp3.1\BasicConcepts.runtimeconfig.json
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\bin\Debug\netcoreapp3.1\BasicConcepts.runtimeconfig.dev.json
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\bin\Debug\netcoreapp3.1\BasicConcepts.dll
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\bin\Debug\netcoreapp3.1\BasicConcepts.pdb
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.csprojAssemblyReference.cache
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.AssemblyInfoInputs.cache
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.AssemblyInfo.cs
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.csproj.CoreCompileInputs.cache
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.dll
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.pdb
+C:\Users\akalakanda\source\repos\csharp\Intro\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.genruntimeconfig.cache
