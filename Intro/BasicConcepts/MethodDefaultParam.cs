@@ -3,19 +3,19 @@ using System;
 
 namespace BasicConcepts
 {
-    class MethodParamArgs
+    class MethodDefaultParam
     {
-        static void MyMethod(string fname)
+        static void MyMethod(string country = "Norway")
         {
-            Console.WriteLine(fname + " Refsnes");
+            Console.WriteLine(country);
         }
 
         static void Main(string[] args)
         {
-            MyMethod("Kevin");
-            MyMethod("Pam");
-            MyMethod("Anja");
-            MyMethod("Anja again");
+            MyMethod("Swed  en");
+            MyMethod("India");
+            MyMethod();
+            MyMethod("USA");
         }
     }
-}
+}   
