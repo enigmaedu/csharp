@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>BasicConcepts.MethodWithMultipleParams</StartupObject>
+    <StartupObject>BasicConcepts.MethodWithReturnVal</StartupObject>
   </PropertyGroup>
 
 </Project>
