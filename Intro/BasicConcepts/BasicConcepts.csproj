@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>BasicConcepts.MethodOverloading</StartupObject>
+    <StartupObject>BasicConcepts.ProgramBasics</StartupObject>
   </PropertyGroup>
 
 </Project>
