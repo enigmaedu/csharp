@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>BasicConcepts.NamedArguments</StartupObject>
+    <StartupObject>BasicConcepts.MethodOverloading</StartupObject>
   </PropertyGroup>
 
 </Project>
