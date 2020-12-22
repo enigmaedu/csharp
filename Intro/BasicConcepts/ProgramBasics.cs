@@ -47,9 +47,9 @@ namespace BasicConcepts
 
             //Type conversion//
 
-            // Implicit casting: conversion from larger to smaller DT conversion Example - int to double()
+            // Implicit casting: conversion from larger DT to smaller DT. Example:Int to Double
             double myDouble = myInt;
-            //Explicit casting - converting a smaller type to a larger type size
+            //Explicit casting: conversion from smaller DT to a larger DT. Example:Double to Int
             double myDouble1 = 9.78;
             int myInt1 = (int)myDouble1;    // Manual casting: double to int
             //Type conversion using convert method
@@ -108,6 +108,7 @@ namespace BasicConcepts
             /*Another option of string concatenation, is string interpolation,
                 which substitutes values of variables into placeholders in a string.
             */
+            Console.WriteLine("String Interpolation example is below:");
             string name3 = $"My full name is: {firstName} {lastName}";
             Console.WriteLine(name3);
             
@@ -191,17 +192,17 @@ namespace BasicConcepts
             }
             // Outputs "Thursday" (day 4)
             //The default keyword is optional and specifies some code to run if there is no case match
+
+
+            //while loop//
             int i = 0;
-
-            //while
-
             while (i < 5)
             {
                 Console.WriteLine(i);
                 i++;
             }
 
-            //do while//
+            //do while loop
             int i1 = 0;
             do
             {
@@ -218,6 +219,7 @@ namespace BasicConcepts
                 Console.WriteLine(j);
             }
             //The foreach Loop
+            //Declare a array and then loop through its contents
             string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
             foreach (string car in cars)
             {
@@ -239,8 +241,8 @@ namespace BasicConcepts
 
             //C# continue
             /*The continue statement breaks one iteration(in the loop),
-             * if a specified condition occurs, and continues with the next iteration in the loop.
-            This example skips the value of 4:*/
+             * If a specified condition occurs, and continues with the next iteration in the loop.
+             * This example skips the value of 4:*/
             for (int m = 0; m < 10; m++)
             {
                 if (m == 4)
@@ -270,14 +272,13 @@ namespace BasicConcepts
             int[] myNumarr = { 10, 20, 30, 40 };
 
             //Access the Elements of an Array
-            string[] cars1 = { "Volvo", "BMW", "Ford", "Mazda" };
-            Console.WriteLine(cars1[0]); //by referring to the index number.
+            Console.WriteLine(supercars1[0]); //by referring to the index number.
 
             //Change an Array Element
-            cars1[0] = "Opel";
+            supercars1[0] = "Opel";
 
             //Array Length
-            Console.WriteLine(cars1.Length);
+            Console.WriteLine(supercars1.Length);
 
             //Loop Through an Array - for loop
             for (int car_num = 0; car_num < cars.Length; car_num++)
@@ -319,7 +320,6 @@ namespace BasicConcepts
             //Note : that if you declare an array and initialize it later, you have to use the new keyword:
             // Declare an array
             string[] cars11;
-
             // Add values, using new
             cars11 = new string[] { "Volvo", "BMW", "Ford" };
 

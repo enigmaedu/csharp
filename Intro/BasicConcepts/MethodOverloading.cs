@@ -1,5 +1,6 @@
-﻿/*Multiple methods can have the same name with different parameters
-Multiple methods can have the same name as long as the number 
+﻿/*
+* Multiple methods can have the same name with different parameters.
+* Multiple methods can have the same name as long as the number 
 and/or type of parameters are different.
 */
 
